@@ -7274,7 +7274,7 @@ li.nav-item > a {
   .blog_area_4 .single_blog_item_3 {
     position: relative;
     z-index: 1;
-    margin-bottom: 50px; }
+    margin-bottom: 150px; }
     .blog_area_4 .single_blog_item_3:hover .blog_img img {
       transform: scale(1.1) rotate(2deg); }
     .blog_area_4 .single_blog_item_3 .blog_img {
@@ -7316,8 +7316,8 @@ li.nav-item > a {
         font-family: 'Fira Sans', sans-serif;
         margin-bottom: 15px; }
       .blog_area_4 .single_blog_item_3 .blog_info h2 {
-        font-size: 24px;
-        font-weight: 700;
+        font-size: 16px;
+        font-weight: 400;
         font-family: 'Fira Sans', sans-serif;
         -webkit-transition: all 0.3s ease-in-out;
         -moz-transition: all 0.3s ease-in-out;
